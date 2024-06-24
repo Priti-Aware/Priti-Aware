@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priti-aware&show_icons=true&locale=en&layout=compact" alt="priti-aware" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priti-aware&show_icons=true&locale=en" alt="priti-aware" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priti-aware&" alt="priti-aware" /></p>
