@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priti Aware</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding" align="right"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priti-aware&label=Profile%20views&color=0e75b6&style=flat" alt="priti-aware" /> </p>
-<img src="![image](https://github.com/Priti-Aware/Priti-Aware/assets/88395495/62706518-3750-4003-9ef3-86aaf17720b5) align="right" alt="coding"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priti-aware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priti-aware" height="30" width="40" /></a>
