@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priti-aware&label=Profile%20views&color=0e75b6&style=flat" alt="priti-aware" /> </p>
-
+<img src="![image](https://github.com/Priti-Aware/Priti-Aware/assets/88395495/62706518-3750-4003-9ef3-86aaf17720b5) align="right" alt="coding"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priti-aware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priti-aware" height="30" width="40" /></a>
