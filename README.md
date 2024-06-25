@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Priti Aware</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<div align="center">
+
+<a href="https://github.com/priti-aware/Cool-GitHub-Profile-README/stargazers"><img src="https://img.shields.io/github/stars/priti-aware/Cool-GitHub-Profile-README" alt="Stars Badge"/></a>
+<a href="https://github.com/priti-aware/Cool-GitHub-Profile-README/network/members"><img src="https://img.shields.io/github/forks/priti-aware/Cool-GitHub-Profile-README" alt="Forks Badge"/></a>
+<a href="https://github.com/priti-aware/Cool-GitHub-Profile-README/pulls"><img src="https://img.shields.io/github/issues-pr/priti-aware/Cool-GitHub-Profile-README" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/priti-aware/Cool-GitHub-Profile-README/issues"><img src="https://img.shields.io/github/issues/priti-aware/Cool-GitHub-Profile-README" alt="Issues Badge"/></a>
+<a href="https://github.com/priti-aware/Cool-GitHub-Profile-README/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/priti-aware/Cool-GitHub-Profile-README?color=2b9348"></a>
+![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+
+
+
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priti-aware&label=Profile%20views&color=0e75b6&style=flat" alt="priti-aware" /> </p>
