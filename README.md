@@ -35,4 +35,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priti-aware&" alt="priti-aware" /></p>
 
 
-<a href="https://app.daily.dev/priti_aware" align="right"><img src="https://api.daily.dev/devcards/v2/gxtq8uVHzy1DLev5kr8I2.png?type=wide&r=bpg" width="300" alt="Priti Aware's Dev Card" /></a>
+<a href="https://app.daily.dev/priti_aware" align="right"><img src="https://api.daily.dev/devcards/v2/gxtq8uVHzy1DLev5kr8I2.png?type=wide&r=bpg" width="300" height="195" alt="Priti Aware's Dev Card" /></a>
