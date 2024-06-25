@@ -33,4 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priti-aware&show_icons=true&locale=en&layout=compact" alt="priti-aware" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priti-aware&show_icons=true&locale=en" alt="priti-aware" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priti-aware&" alt="priti-aware" /></p>
-<a href="https://app.daily.dev/priti_aware" align="right"><img src="https://api.daily.dev/devcards/v2/gxtq8uVHzy1DLev5kr8I2.png?type=wide&r=bpg" width="400" alt="Priti Aware's Dev Card" /></a>
+
+
+<a href="https://app.daily.dev/priti_aware" align="right"><img src="https://api.daily.dev/devcards/v2/gxtq8uVHzy1DLev5kr8I2.png?type=wide&r=bpg" width="500" alt="Priti Aware's Dev Card" /></a>
